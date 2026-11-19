@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<title>食育 — A growing smile</title>
+
+<g stroke="#795036" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+<path d="M256 201v-55" fill="none"/>
+<path d="M254 155c-61 4-99-27-101-75 62-7 102 21 101 75Z" fill="#a5c66b"/>
+<path d="M257 143c-2-49 35-76 92-74-1 48-37 78-92 74Z" fill="#80a951"/>
+<path d="M123 263c-6-31 10-56 41-63 4-30 40-45 66-27 23-29 64-24 79 6 35-9 66 18 63 48 19 6 29 20 27 36" fill="#fffdf2"/>
+<path d="M103 258h306c-6 87-68 143-153 143S109 345 103 258Z" fill="#f4ba66"/>
+<path d="M210 401v25h92v-25" fill="#f4ba66"/>
+<path d="M232 342q24 23 48 0" fill="none" stroke-width="14"/>
+</g>
+<g fill="#795036"><circle cx="201" cy="312" r="12"/><circle cx="311" cy="312" r="12"/></g>
+<g fill="#e38b70"><ellipse cx="170" cy="335" rx="17" ry="10"/><ellipse cx="342" cy="335" rx="17" ry="10"/></g>
+</svg>
